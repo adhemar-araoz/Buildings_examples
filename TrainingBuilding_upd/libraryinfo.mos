@@ -1,0 +1,12 @@
+LibraryInfoMenuSeparator(
+  category="libraries",
+  pos=100000)
+
+LibraryInfoMenuCommand(
+  category="libraries",
+  text="TrainingBuilding_upd",
+  reference="TrainingBuilding_upd",
+  version="",
+  isModel=true,
+  description="",
+  pos=100001)
